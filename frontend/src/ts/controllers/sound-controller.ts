@@ -434,27 +434,6 @@ async function init(): Promise<void> {
         ],
         counter: 0,
       },
-      // {
-      //   sounds: [
-      //     new Howl({ src: "../sound/click16/click16_5.wav" }),
-      //     new Howl({ src: "../sound/click16/click16_5.wav" }),
-      //   ],
-      //   counter: 0,
-      // },
-      // {
-      //   sounds: [
-      //     new Howl({ src: "../sound/click16/click16_6.wav" }),
-      //     new Howl({ src: "../sound/click16/click16_6.wav" }),
-      //   ],
-      //   counter: 0,
-      // },
-      // {
-      //   sounds: [
-      //     new Howl({ src: "../sound/click16/click16_7.wav" }),
-      //     new Howl({ src: "../sound/click16/click16_7.wav" }),
-      //   ],
-      //   counter: 0,
-      // },
       {
         sounds: [
           new Howl({ src: "../sound/click16/click16_8.wav" }),
